@@ -1,3 +1,6 @@
+/* font-family: 'IM Fell Great Primer', serif;
+font-family: 'Roboto Condensed', sans-serif; */
+
 */{
     margin: 0;
     padding: 0; 
@@ -10,6 +13,7 @@
 
 header{
     background-color: rgba(255, 174, 0, 0.3);
+    font-family: 'IM Fell Great Primer', serif;
     
 }
 header nav ul {
@@ -40,6 +44,9 @@ head body{
 /*main*/
 main{
     background-color: rgba(214, 30, 6, 0.788);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size:large;
+
 }
 /*footer*/
 footer{

@@ -1,0 +1,55 @@
+*/{
+    margin: 0;
+    padding: 0; 
+}*/
+.container-div div nav{
+    border: 2px solid black;
+}
+/*header*/
+
+
+header{
+    background-color: rgba(255, 174, 0, 0.3);
+    
+}
+header nav ul {
+    margin: 50;
+    
+}
+
+ul{
+    list-style: none;
+}
+nav {
+    justify-content: right;
+    text-decoration: none;
+    
+}
+
+/*body*/
+
+body {
+    color: black;
+
+}
+
+head body{
+    font-style: arial;
+    font-weight: bold;
+}
+/*main*/
+main{
+    background-color: rgba(214, 30, 6, 0.788);
+}
+/*footer*/
+footer{
+    background-color: rgba(255, 174, 0, 0.3);
+/*section*/
+}
+section{
+    background-color: rgb(241, 130, 3, 0.4);
+    text-align: center;
+}
+.section1{
+    background-color: rgba(255, 166, 0, 0.699);
+}

@@ -46,7 +46,6 @@ main{
     background-color: rgba(214, 30, 6, 0.788);
     font-family: 'Roboto Condensed', sans-serif;
     font-size:large;
-
 }
 /*footer*/
 footer{
@@ -59,4 +58,7 @@ section{
 }
 .section1{
     background-color: rgba(255, 166, 0, 0.699);
+}
+.h1{
+    color: rgba(rgba(56, 54, 54, 0.589)) ;
 }
